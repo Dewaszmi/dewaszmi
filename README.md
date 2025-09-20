@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+#### I'm a third year CS student at University of Adam Mickiewicz in Poznań, Poland.
+
+My interests concern reinforncement learning, generative algorithms, data analysis and operating systems (Arch and Neovim user btw)
+
+I'm currently learning to implement common DRL algorithms via PyTorch.
+
+I also make experimental / art pop music in my free time, with main inspirations being early projects of Grimes, Ecco2k and FKA twigs. I'm planning to write a program to synthesize sounds and generate MIDI arrangements via RL on the go.
 <!--
 **Dewaszmi/dewaszmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
