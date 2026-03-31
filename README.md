@@ -2,7 +2,7 @@
 
 #### I'm a third year CS student at University of Adam Mickiewicz in Poznań, Poland.
 
-My interests concern reinforncement learning, generative algorithms, data analysis and operating systems (Neovim btw). I'm currently learning Rust.
+My interests concern reinforncement learning, generative algorithms, data analysis and operating systems (Neovim btw).
 <!--
 **Dewaszmi/dewaszmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
